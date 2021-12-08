@@ -1,0 +1,9 @@
+  {
+    "name":"Fortnite",
+    "author":"Epic Games",
+    "pkg":"com.epicgames.fortnite",
+    "description":"Стартовал пробный запуск Battle Breakers от Epic Games, новой тактической RPG. Epic Games, ставшая известной после выпуска Infinity Blade и Paragon, представила геймерам новую игру Battle Breakers, кроссплатформенную тактическую RPG, которая выглядит вполне достойно.",
+    "icon":"https://images.app.goo.gl/JcCA6uy5jhiQYhKs9",
+    "banner":"Img/Banner1.png",
+    "imgs":["Img/Banner1.png", "Img/Fortnite.png"]
+  },
