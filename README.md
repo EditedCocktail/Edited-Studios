@@ -1,2 +1,2 @@
-# EDIT-S
+# EDIT-Shop
 Files for my apps store
