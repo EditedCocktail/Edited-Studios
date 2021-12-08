@@ -1,9 +1,11 @@
+[
   {
-    "name":"Fortnite",
-    "author":"Epic Games",
-    "pkg":"com.epicgames.fortnite",
-    "description":"Стартовал пробный запуск Battle Breakers от Epic Games, новой тактической RPG. Epic Games, ставшая известной после выпуска Infinity Blade и Paragon, представила геймерам новую игру Battle Breakers, кроссплатформенную тактическую RPG, которая выглядит вполне достойно.",
-    "icon":"https://images.app.goo.gl/JcCA6uy5jhiQYhKs9",
-    "banner":"Img/Banner1.png",
-    "imgs":["Img/Banner1.png", "Img/Fortnite.png"]
-  },
+    "name":"Bedrock Launcher",
+    "author":"Edited Studios",
+    "pkg":"com.edit.bedrocklauncher",
+    "description":"Bedrock Launcher - лучший лаунчер для установки и запуска любой версии Minecraft Bedrock Edition бесплатно.",
+    "icon":"https://github.com/EditedCocktail/BedrockLauncher/raw/main/images/Edit.png",
+    "banner":"https://github.com/EditedCocktail/BedrockLauncher/raw/main/images/Edit.png",
+    "imgs":["https://github.com/EditedCocktail/BedrockLauncher/raw/main/images/Edit.png"]
+  }
+]
