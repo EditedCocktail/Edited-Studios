@@ -1,2 +1,1 @@
-# EDIT-Shop
-Files for my apps store
+Edited Studios is just a regular apps market with awesome and minimalistic design.
