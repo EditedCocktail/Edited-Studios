@@ -4,10 +4,10 @@
     "author":"Edited Studios",
     "pkg":"com.edit.bedrocklauncher",
     "type":"Бесплатные • без внутриигровых покупок",
-    "apk":"https://github.com/EditedCocktail/EDIT-Store/blob/main/apps/Bedrock%20Launcher/Bedrock%20Launcher.apk?raw=true",
+    "apk":"https://github.com/EditedCocktail/Edited-Studios/blob/main/apps/Bedrock%20Launcher/Bedrock%20Launcher.apk?raw=true",
     "description":"Bedrock Launcher - лучший лаунчер для установки и запуска любой версии Minecraft Bedrock Edition бесплатно.",
-    "icon":"https://github.com/EditedCocktail/EDIT-Store/raw/main/apps/Bedrock%20Launcher/images/Bedrock%20Launcher.png",
-    "banner":"https://github.com/EditedCocktail/EDIT-Store/raw/main/apps/Bedrock%20Launcher/images/Bedrock%20Launcher%20Banner.png",
-    "imgs":["https://github.com/EditedCocktail/EDIT-Store/raw/main/apps/Bedrock%20Launcher/images/Bedrock%20Launcher%20Img1.png", "https://github.com/EditedCocktail/EDIT-Store/raw/main/apps/Bedrock%20Launcher/images/Bedrock%20Launcher%20Img2.png", "https://github.com/EditedCocktail/EDIT-Store/raw/main/apps/Bedrock%20Launcher/images/Bedrock%20Launcher%20Img3.png"]
+    "icon":"https://github.com/EditedCocktail/Edited-Studios/raw/main/apps/Bedrock%20Launcher/images/Bedrock%20Launcher.png",
+    "banner":"https://github.com/EditedCocktail/Edited-Studios/raw/main/apps/Bedrock%20Launcher/images/Bedrock%20Launcher%20Banner.png",
+    "imgs":["https://github.com/EditedCocktail/Edited-Studios/raw/main/apps/Bedrock%20Launcher/images/Bedrock%20Launcher%20Img1.png", "https://github.com/EditedCocktail/Edited-Studios/raw/main/apps/Bedrock%20Launcher/images/Bedrock%20Launcher%20Img2.png", "https://github.com/EditedCocktail/Edited-Studios/raw/main/apps/Bedrock%20Launcher/images/Bedrock%20Launcher%20Img3.png"]
   }
 ]
